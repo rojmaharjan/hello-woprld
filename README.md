@@ -1,2 +1,0 @@
-# hello-woprld
-C programming
